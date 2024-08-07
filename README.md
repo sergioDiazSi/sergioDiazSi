@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Sergio Diaz(bearcode).
-- 👀 I’m interested in Full-Stack Developer.
-- 🌱 I’m currently learning NodeJS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sergioDiazSi/sergioDiazSi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey There! , I’m Sergio Diaz(bearcode).
+💻 I am mainly a Backend Developer and Frontend Developer
+📚 I am a Systems Engineering student at UNT
+📝 I have a strong interest in Software Engineering and Design
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: Java, NodeJS 😁
+🚩 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
+💻 My Tech Stack
