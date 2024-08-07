@@ -2,7 +2,14 @@
 
 ## Welcome!
 
-Hello! I'm Sergio Diaz, a passionate software developer with a strong background in various technologies. I'm always excited to learn new things and tackle challenging problems. Here’s a bit about what I do and the technologies I work with.
+I'm Sergio Diaz, a systems engineering student based in Peru. I have experience with various technologies including Express.js, Next.js, React.js, and Java. I enjoy working on projects that involve these technologies and am particularly interested in JavaScript technologies for both frontend and backend development. I enjoy writing blogs about the things that I am learning and sharing my knowledge with others.
+
+🌱 Now I am learning Swift.
+
+💬 Ask me about whatever you want. I am interested in helping and sharing.
+
+☕ I like coffee.
+
 ## Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
