@@ -16,4 +16,4 @@ Hello! I'm Sergio Diaz, a passionate software developer with a strong background
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Stats
-![Sergio Díaz GitHub stats](https://github-readme-stats.vercel.app/api?sergioDiazSi=anuraghazra&show_icons=true&theme=radical)
+![Sergio Díaz GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioDiazSi&show_icons=true&theme=radical)
