@@ -1,5 +1,3 @@
-# Sergio Diaz's GitHub Profile
-
 ## Welcome!
 
 I'm Sergio Diaz, a systems engineering student based in Peru. I have experience with various technologies including Express.js, Next.js, React.js, and Java. I enjoy working on projects that involve these technologies and am particularly interested in JavaScript technologies for both frontend and backend development. I enjoy writing blogs about the things that I am learning and sharing my knowledge with others.
